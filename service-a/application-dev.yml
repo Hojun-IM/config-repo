@@ -1,2 +1,3 @@
 service:
- name: test service for dev-A
+ name: 임호준
+ studentNumber: 202033040;
